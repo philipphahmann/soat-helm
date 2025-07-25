@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  soat-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-24T21:33:03.5568486-03:00"
+    description: Um chart Helm para uma aplicação Spring Boot com PostgreSQL
+    digest: b2686a5a211a5fc566ef5f23e0d67710ab4b841b754bb0d0afb8da2335cf92d0
+    name: soat-helm
+    type: application
+    urls:
+    - https://github.com/philipphahmann/soat-helm/soat-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-24T21:33:03.540773-03:00"
