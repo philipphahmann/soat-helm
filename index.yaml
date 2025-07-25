@@ -9,6 +9,6 @@ entries:
     name: soat-helm
     type: application
     urls:
-    - https://github.com/philipphahmann/soat-helm/soat-helm-0.1.0.tgz
+    - https://philipphahmann.github.io/soat-helm/soat-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2025-07-24T21:33:03.540773-03:00"
